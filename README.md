@@ -29,8 +29,9 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 ### 2. Socials
 
-<p align="left"> <a href="https://www.github.com/IndiraPe" target="_blank" rel="noreferrer"><img background-color="white" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/indira-pp-mond/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/IndiraPe" target="_blank" rel="noreferrer"><img background-color="white" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/indira-pp-mond/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
 ### 3. Support Me
 
 <a href="https://www.buymeacoffee.com/indiramondf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
