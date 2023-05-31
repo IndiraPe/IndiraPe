@@ -38,17 +38,11 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 <a href="http://www.github.com/IndiraPe"><img src="https://github-readme-stats.vercel.app/api?username=IndiraPe&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="IndiraPe's GitHub stats" /></a>
 
-<a href="http://www.github.com/IndiraPe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IndiraPe&stroke=64748b&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/IndiraPe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiraPe&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/IndiraPe/DEV005-data-lovers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IndiraPe&repo=DEV005-data-lovers&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IndiraPe/DEV005-md-links" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IndiraPe&repo=DEV005-md-links&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/IndiraPe/DEV005-social-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IndiraPe&repo=DEV005-social-network&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IndiraPe/DEV005-card-validation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IndiraPe&repo=DEV005-card-validation&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
