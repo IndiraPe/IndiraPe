@@ -6,13 +6,12 @@ Front end Developer
 
 Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a estudiar Arquitectura🏘, donde aprendí lo mucho que me apasiona construir, solucionar problemas, transformar bocetos en planos y ver el impacto del producto final. Cuando entré a Laboratoria✨, descubrí que puedo llevar mi pasión a otro nivel, usando mis habilidades para construir con código y lógica, puedo aspirar a convertirme en una arquitecta de la web.🚀🎇
 
-* 🌍  Vivo en Perú
-* ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
+* 🌍  Vivo en Perú 
+* ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
 * 🧠  Estoy aprendiendo un nuevo framework
-* ⚡  Mis hobbies: Jugar videojuegos, ver anime, tocar música, pintar en acuarela y ver memes
+* ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨 y ver memes🐱‍👤
 
 ### 1. Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -26,7 +25,6 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </p>
-
 
 ### 2. Socials
 
