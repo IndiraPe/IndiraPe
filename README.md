@@ -11,7 +11,7 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 * 🧠  Estoy aprendiendo un nuevo framework
 * ⚡  Mis hobbies: Jugar videojuegos, ver anime, tocar música, pintar en acuarela y ver memes
 
-### Skills
+### 1. Skills
 
 
 <p align="left">
@@ -28,17 +28,11 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 </p>
 
 
-### Socials
+### 2. Socials
 
 <p align="left"> <a href="https://www.github.com/IndiraPe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/indira-pp-mond/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IndiraPe"><img src="https://github-readme-stats.vercel.app/api?username=IndiraPe&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="IndiraPe's GitHub stats" /></a>
-
-### Support Me
+### 3. Support Me
 
 <a href="https://www.buymeacoffee.com/indiramondf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
