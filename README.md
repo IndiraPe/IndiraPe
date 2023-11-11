@@ -1,4 +1,4 @@
-Hola mundo!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Indira
+Hola mundo!! ![](https://cdna.artstation.com/p/assets/images/images/049/630/546/original/yuni_lamu-miaouuuu-export.gif?1653345866)Mi nombre es Indira
 ==============================================================================================================================
 
 Front end Developer
@@ -8,8 +8,8 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 * 🌍  Vivo en Perú 
 * ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
-* 🧠  Estoy aprendiendo un nuevo framework
-* ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨 y ver memes🐱‍👤
+* 🧠  Estoy aprendiendo un nuevo framework 👀
+* ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨, tattos✒ y ver memes🐱‍👤
 
 ### 1. Skills
 
