@@ -6,10 +6,10 @@ Front end Developer
 
 Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a estudiar Arquitectura🏘, donde aprendí lo mucho que me apasiona construir, solucionar problemas, transformar bocetos en planos y ver el impacto del producto final. Cuando entré a Laboratoria✨, descubrí que puedo llevar mi pasión a otro nivel, usando mis habilidades para construir con código y lógica, puedo aspirar a convertirme en una arquitecta de la web.🚀🎇
 
-* 🌍  Vivo en Perú 
+* 🌍  Vivo en Perú
 * ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
 * 🧠  Estoy aprendiendo un nuevo framework 👀
-* ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨, tattos✒ y ver memes🐱‍👤
+* ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨, tattos✒, jugar con gatitos🐈 y ver memes🐱‍👤
 
 ### 1. Skills
 
