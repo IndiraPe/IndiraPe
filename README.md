@@ -1,11 +1,5 @@
 <img src="dev.jpg"/>
 
-Hola mundo!!! Mi nombre es Indira <img src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="45" height="45" /> 
-==============================================================================================================================
-
-Front end Developer
--------------------
-
 Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a estudiar Arquitectura🏘, donde aprendí lo mucho que me apasiona construir, solucionar problemas, transformar bocetos en planos y ver el impacto del producto final. Cuando entré a Laboratoria✨, descubrí que puedo llevar mi pasión a otro nivel, usando mis habilidades para construir con código y lógica, puedo aspirar a convertirme en una arquitecta de la web.🚀🎇
 
 * 🌍  Vivo en Perú
@@ -41,4 +35,4 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 <a href="https://www.buymeacoffee.com/indiramondf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
+Gracias por visitarme <img src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="45" height="45" />
