@@ -35,4 +35,4 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 <a href="https://www.buymeacoffee.com/indiramondf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-Gracias por visitarme <img src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="45" height="45" />
+### Gracias por visitarme <img src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="45" height="45" />
