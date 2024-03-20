@@ -4,7 +4,7 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
-* 🧠  Estoy aprendiendo un nuevo lenguaje "ELM", "python" 👀 y profundizando más en Angular 🅰
+* 🧠  Estoy aprendiendo un nuevo lenguaje "ELM", "Python" 👀 y profundizando más en Angular 🅰
 * ⚡  Mis hobbies: Jugar videojuegos🎮, ver anime🎌, tocar música🎶, pintar en acuarela🎨, tattos✒, acariciar gatitos🐈, ver la luna🌙 y ver memes🐱‍👤
 
 ### 1. Skills
