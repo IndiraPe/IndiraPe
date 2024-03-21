@@ -1,6 +1,6 @@
 <img src="dev.jpg"/>
 
-Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a estudiar Arquitectura🏘, donde aprendí lo mucho que me apasiona construir, solucionar problemas, transformar bocetos en planos y ver el impacto del producto final. Cuando entré a Laboratoria✨, descubrí que puedo llevar mi pasión a otro nivel, usando mis habilidades para construir con código y lógica, puedo aspirar a convertirme en una arquitecta de la web.🚀🎇
+Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a estudiar Arquitectura🏘, donde aprendí lo mucho que me apasiona construir, solucionar problemas, transformar bocetos en planos y ver el impacto del producto final. Cuando entré a Laboratoria✨, descubrí que puedo llevar mi pasión a otro nivel, usando mis habilidades para construir con código y lógica, puedo aspirar a convertirme en una arquitecta de la web.🚀🎇🐱‍💻
 
 * 🌍  Vivo en Perú
 * ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
