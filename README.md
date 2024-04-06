@@ -25,6 +25,7 @@ Soy desarrolladora Front end 💻, mi imaginación y creatividad me llevó a est
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="36" height="36" alt="SQL" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_3evbu/styles/communityIcon_78eetq3tym861.png" width="36" height="36" alt="Python" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/elm-icon-1024x1024-o2t87xcp.png" width="36" height="36" alt="ELM" /></a>
 
 </p>
 
